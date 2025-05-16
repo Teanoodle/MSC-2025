@@ -1,5 +1,5 @@
 # MSC-2025 Problem A
-StaircaseWear Analysis: Quantifying Usage, Behavioral Patterns,
+Staircase Wear Analysis: Quantifying Usage, Behavioral Patterns,
 and Preservation Insights Through Mathematical Modeling
 
 # Summary
