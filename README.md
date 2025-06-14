@@ -10,3 +10,6 @@ users. To scientifically explore the driving factors of staircase wear and its d
 activities, this paper comprehensively employs modern measurement techniques, data modeling, and
 behavioral analysis to propose an innovative multi-level assessment framework, and reveals the characteristics
 of staircase wear and the underlying human behavior information from multiple perspectives
+
+🤓Team: Super Wang, Jacky Zhu, Kelly Tao  
+January 23, 2025 - January 27, 2025
